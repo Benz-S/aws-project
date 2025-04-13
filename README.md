@@ -2,9 +2,7 @@
 
 This repo includes documentation for:
 
-- Lab 4: Working with Amazon EBS
-- Lab 5: Build Your DB Server and Interact With Your DB Using an App
-- More labs coming soon...
+All the labs I'm currently working on from my Cloud Engineering course! 
 
 ## 📌 Purpose
 
