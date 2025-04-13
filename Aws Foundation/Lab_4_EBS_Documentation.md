@@ -83,12 +83,6 @@ Approximately **30 minutes**
 | Snapshot     | Took snapshot before tagging volume       | Edited tags after snapshot was created             |
 | Device Name  | Mounted as `/dev/sdf` but appeared as `/dev/xvdf` | Used `lsblk` to confirm correct name          |
 
----
-
-## 📝 Submission & Results
-- Submitted lab using AWS lab interface
-- Confirmed all tasks completed successfully
-- Snapshot, restore, and mount tested and verified
 
 ---
 
