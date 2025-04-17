@@ -134,8 +134,7 @@ aws s3 sync files s3://S3-BUCKET-NAME/files/
 | Issue | Cause | Solution |
 |-------|-------|----------|
 | Snapshot returns error | Instance still running | Used `stop-instances` and `wait` command before snapshot |
-| `--delete` gives parsing error | CLI version mismatch | Ignored error, file still deleted successfully |
-| Permission denied on `.pem` file | Wrong file mode | Used `chmod 400 labsuser.pem` |
+
 
 ---
 
