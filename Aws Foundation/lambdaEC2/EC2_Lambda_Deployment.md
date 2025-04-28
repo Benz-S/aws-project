@@ -2,9 +2,9 @@
 # RMIT University - ICTCLD507 Task 1 Deployment Documentation
 
 ## Project Name: EC2 and Lambda Deployment
-**Consultant Name:** [Your Name]  
+**Consultant Name:** Benz S
 **Environment:** AWS Cloud  
-**Date:** [Insert Date]  
+**Date:** 17.04.2025  
 
 ---
 
